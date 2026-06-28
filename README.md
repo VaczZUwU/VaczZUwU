@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=vaczz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF7F&center=true&vCenter=true&width=500&lines=01000110;rain+of+code;just+keep+building" alt="matrix" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=460&color=58A6FF&lines=Code+%26+curiosity;Always+learning+something+new;Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="typing" />
 </p>
