@@ -15,9 +15,9 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: VaczZUwU
-          outputs: |
-              dist/snake.svg?color_snake=%23ffffff&color_dots=%23161b22,%23555555,%23999999,%23cccccc,%23ffffff
+            github_user_name: VaczZUwU
+            outputs: |
+                  dist/snake.svg?color_snake=%23ffffff&color_dots=%2330363d,%23666666,%23999999,%23cccccc,%23ffffff
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
