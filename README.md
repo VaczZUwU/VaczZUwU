@@ -4,7 +4,9 @@
 
 <p><code>developer · always learning</code></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=380&lines=building+side+projects;code+%26+curiosity" alt="typing" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=480&lines=01100011+01101111+01100100+01100101;%3E+building+something..." alt="matrix" />
+</div>
 
 </div>
 
