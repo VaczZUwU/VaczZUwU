@@ -8,18 +8,15 @@
 
 </div>
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VaczZUwU&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=cccccc&icon_color=ffffff&title_color=ffffff" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaczZUwU&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaczZUwU&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="95%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg" alt="snake" width="95%" />
 </div>
 
 <br>
@@ -28,6 +25,5 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-1a1a1a?style=flat&logo=telegram&logoColor=white)](https://t.me/vaczz_jnz)
 [![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=flat&logo=discord&logoColor=white)](https://discord.com/users/427132385797341185)
-[![Website](https://img.shields.io/badge/Website-1a1a1a?style=flat&logo=googlechrome&logoColor=white)](https://VaczZUwU.github.io)
 
 </div>
