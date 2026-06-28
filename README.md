@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">vaczz</h1>
 
-<!--
-**VaczZUwU/VaczZUwU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Russia 🇷🇺 · code &amp; curiosity</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaczZUwU&show_icons=true&hide_title=true&hide=contribs&theme=transparent&hide_border=true" height="150" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/vaczz_jnz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.com/users/427132385797341185"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://VaczZUwU.github.io"><img src="https://img.shields.io/badge/Website-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+</p>
