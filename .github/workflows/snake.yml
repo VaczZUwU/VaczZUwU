@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?color_snake=%2375dce7&color_dots=%23182b3b,%231d4964,%23226891,%231793d1,%2343becf
+            dist/snake-vivy.svg?color_snake=%2375dce7&color_dots=%23182b3b,%231d4964,%23226891,%231793d1,%2343becf
 
       - name: Generate activity graph
         env:

@@ -23,7 +23,7 @@
 
 <a href="https://github.com/VaczZUwU#contribution-activity"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/activity.svg" width="100%" alt="GitHub contributions over the last 30 days" /></a>
 
-<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg?v=2" width="100%" alt="Animated GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake-vivy.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </details>
 
