@@ -21,9 +21,9 @@
 <details>
 <summary>Activity &amp; contributions</summary>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaczZUwU&amp;bg_color=09121c&amp;color=8da5b6&amp;line=1793d1&amp;point=75dce7&amp;area=true&amp;area_color=122c3c&amp;hide_border=true" width="100%" alt="GitHub contribution activity" />
+<a href="https://github.com/VaczZUwU#contribution-activity"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/activity.svg" width="100%" alt="GitHub contributions over the last 30 days" /></a>
 
-<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg" width="100%" alt="Contribution snake — existing output branch" />
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg?v=2" width="100%" alt="Animated GitHub contribution snake" />
 
 </details>
 

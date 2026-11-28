@@ -12,12 +12,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
-            github_user_name: VaczZUwU
-            outputs: |
-                  dist/snake.svg?color_snake=%23ffffff&color_dots=%2330363d,%23666666,%23999999,%23cccccc,%23ffffff
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=%2375dce7&color_dots=%23182b3b,%231d4964,%23226891,%231793d1,%2343becf
+
+      - name: Generate activity graph
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: node .github/scripts/activity-graph.mjs
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
