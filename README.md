@@ -1,31 +1,50 @@
-<div align="center">
+<!-- vaczz / Vivy palette / terminal typography -->
 
-# vaczz
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/hero.png" width="100%" alt="vaczz — Next.js developer. Vivy-inspired profile banner." />
 
-<p><code>developer · always learning</code></p>
+<a href="https://github.com/VaczZUwU?tab=repositories"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/signal.svg" width="100%" alt="vaczz — profile, projects and contact" /></a>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=480&lines=01100011+01101111+01100100+01100101;%3E+building+something..." alt="matrix" />
-</div>
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/about.svg" width="100%" alt="vaczz. Developer, always learning. Primary stack: Next.js. Public work: desktop themes." />
 
-</div>
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/projects.svg" width="100%" alt="Selected public projects" />
 
+<p align="center">
+<a href="https://github.com/VaczZUwU/codex-themes"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/codex.svg" width="49%" alt="Codex Themes — searchable gallery, custom themes, import/export. Python / Windows. Unofficial and experimental." /></a>
+<a href="https://github.com/VaczZUwU/claude-themes"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/claude.svg" width="49%" alt="Claude Themes — Doki palettes, artwork, native previews. Python / Windows. Unofficial and experimental." /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaczZUwU&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="95%" />
-</div>
+<p align="center">
+<a href="https://t.me/vaczz_jnz"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/telegram.svg" width="49%" alt="Telegram: @vaczz_jnz" /></a>
+<a href="https://discord.com/users/427132385797341185"><img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/discord.svg" width="49%" alt="Discord: connect with vaczz" /></a>
+</p>
 
-<br>
+<details>
+<summary>Activity &amp; contributions</summary>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg" alt="snake" width="95%" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaczZUwU&amp;bg_color=09121c&amp;color=8da5b6&amp;line=1793d1&amp;point=75dce7&amp;area=true&amp;area_color=122c3c&amp;hide_border=true" width="100%" alt="GitHub contribution activity" />
 
-<br>
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/output/snake.svg" width="100%" alt="Contribution snake — existing output branch" />
 
-<div align="center">
+</details>
 
-[![Telegram](https://img.shields.io/badge/Telegram-1a1a1a?style=flat&logo=telegram&logoColor=white)](https://t.me/vaczz_jnz)
-[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=flat&logo=discord&logoColor=white)](https://discord.com/users/427132385797341185)
+<img src="https://raw.githubusercontent.com/VaczZUwU/VaczZUwU/main/assets/signoff.svg" width="100%" alt="vaczz on GitHub" />
 
-</div>
+<details>
+<summary>Text version &amp; project links</summary>
+
+## vaczz
+
+Developer · always learning. **Main stack: Next.js.**
+
+### Public work
+
+- [Codex Themes](https://github.com/VaczZUwU/codex-themes) — Doki palettes, artwork, searchable gallery, custom themes with import/export.
+- [Claude Themes](https://github.com/VaczZUwU/claude-themes) — Doki palettes, character wallpapers and a native preview gallery.
+
+These public projects use Python and target Windows. Both are unofficial and experimental. Each project documents 88 themes and 103 artwork variants; these are project contents, not GitHub activity metrics.
+
+[Telegram](https://t.me/vaczz_jnz) · [Discord](https://discord.com/users/427132385797341185) · [All repositories](https://github.com/VaczZUwU?tab=repositories)
+
+Vivy-inspired fan artwork. Character rights belong to their respective owners. Typography: JetBrains Mono, SIL Open Font License.
+
+</details>
